@@ -1,9 +1,9 @@
 /* This is a CSS file for my index page. */
 body {
-  margin: 25px;
+  margin: 20px;
   background-color: rgb(240,240,240);
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 13px;
 }
 
 /* Applies to all <h1>...</h1> elements. */
